@@ -8,7 +8,7 @@
     "vscode-languageserver": "^3.5.0"
   },
   "bin": {
-    "css-language-server": "dist/index.js"
+    "css-language-server": "lib/cli.js"
   },
   "devDependencies": {
     "@types/node": "^8.0.50"
