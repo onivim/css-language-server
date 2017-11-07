@@ -11,9 +11,11 @@
     "css-language-server": "lib/cli.js"
   },
   "devDependencies": {
-    "@types/node": "^8.0.50"
+    "@types/node": "^8.0.50",
+    "typescript": "^2.6.1"
   },
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
