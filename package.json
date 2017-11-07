@@ -1,0 +1,32 @@
+{
+  "name": "css-language-server",
+  "version": "0.0.1",
+  "description": "Language server for CSS, LESS, and SASS",
+  "main": "dist/index.js",
+  "dependencies": {
+    "vscode-css-languageservice": "^3.0.0",
+    "vscode-languageserver": "^3.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.50"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onivim/css-language-server.git"
+  },
+  "keywords": [
+    "language-server-protocol",
+    "css",
+    "less",
+    "sass"
+  ],
+  "author": "Bryan Phelps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onivim/css-language-server/issues"
+  },
+  "homepage": "https://github.com/onivim/css-language-server#readme"
+}
