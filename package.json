@@ -7,6 +7,9 @@
     "vscode-css-languageservice": "^3.0.0",
     "vscode-languageserver": "^3.5.0"
   },
+  "bin": {
+    "css-language-server": "dist/index.js"
+  },
   "devDependencies": {
     "@types/node": "^8.0.50"
   },
