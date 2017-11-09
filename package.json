@@ -1,6 +1,6 @@
 {
   "name": "css-language-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Language server for CSS, LESS, and SASS",
   "main": "dist/index.js",
   "dependencies": {
